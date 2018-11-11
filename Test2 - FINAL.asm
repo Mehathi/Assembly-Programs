@@ -1,6 +1,5 @@
 ; Test 2 - Code
-; Stefani Moore
-; 106789878
+; Ivy McCarthy
 
 ; Simple game of hangman.A random string from 14 words will be selected
 ; for the user to try and guess.They will get 10 guesses to win the game.
